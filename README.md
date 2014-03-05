@@ -1,5 +1,6 @@
 # wp-Memo
 =======
+Dev : http://www.26am.biz
 
 Mini doc pour développer rapidement sur Wordpress
 

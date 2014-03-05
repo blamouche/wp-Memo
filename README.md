@@ -1,4 +1,8 @@
-wp-Memo
+# wp-Memo
 =======
 
-Plein de bonnes choses pour Wordpress
+Mini doc pour développer rapidement sur Wordpress
+
+## -1- Créer des menus
+- functions.php
+- templates
